@@ -3,7 +3,8 @@ Zero Day Quest is the ultimate cybersecurity challenge where elite security rese
 
 Event Date: April 1st, 2025
 
-## Objective: The goal is to uncover and analyze zero-day vulnerabilities, pushing the boundaries of offensive security research while strengthening global cybersecurity defenses.
+## Objective: 
+The goal is to uncover and analyze zero-day vulnerabilities, pushing the boundaries of offensive security research while strengthening global cybersecurity defenses.
 
 ## Watch Live Now
 Use the following PowerShell command to watch Zero Day Quest live:
